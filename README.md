@@ -23,13 +23,13 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 
 ### ACMer
 | 博客名称   | 网址 |  简介  |
-| :----:   | :----: | :----:  |
+| :----:   | :----: | :----  |
 |  |  |  |
 | TankyWoo | http://www.wutianqi.com/ |   |
 
 ### 算法
 | 博客名称   | 网址 |  简介  |
-| :----:   | :----: | :----:  |
+| :-------:   | :----: | :----  |
 | 结构之法 算法之道 | https://blog.csdn.net/v_JULY_v  | July，湖南娄底人，于2010年10月11日开始在CSDN上写博，博客专注面试、算法、机器学习。2011年毕业于东华理工，2015年正式创业，任：七月在线创始人兼CEO，公司官网：七月在线,新书《编程之法》15年10月14日起正式上市 |
 
 ### 后端
@@ -39,23 +39,23 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 
 ### 前端
 | 博客名称   | 网址 |  简介  |
-| :----:   | :----: | :----:  |
+| :-------:   | :----: | :----  |
 | 罗磊 | https://luolei.org/ | 前端工程师，ZUOLUOTV制作人，简书推荐作者，写独立博客八年，骑行过川藏线，跑过几场马拉松 |
 |  |  |  |
 
 ### 信息安全
 | 博客名称   | 网址 |  简介  |
-| :----:   | :----: | :----:  |
+| :-------:   | :----: | :----:  |
 |  |  |  |
 
 ### 国外
 | 博客名称   | 网址 |  简介  |
-| :----:   | :----: | :----:  |
+| :----:   | :----: | :----  |
 | Richard Stallman's Personal Site | http://www.stallman.org/ | 理查德·斯托曼 自由软件之父 GNU GPL |
 
 ### 他们的博客
 | 博客名称   | 网址 |  简介  |
-| :----:   | :----: | :----:  |
+| :--------:   | :----: | :----  |
 | Lucida | http://lucida.me/ | 北航 Microsoft Google Facebook [我的算法学习之路](http://lucida.me/blog/on-learning-algorithms/) [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/) (可能是全网最佳程序员书单) [旧博客](https://www.cnblogs.com/figure9/) |
 | Aiur · Zellux 的博客 | https://blog.yxwang.me/ | 我的名字是王远轩，Zellux 是我常用的英文名，住在湾区，对智能家居和星际争霸比较感兴趣。我目前在 Ike 做无人卡车视觉的相关工作。我们公司在旧金山，最近拿到了 5200 万 A 轮融资，正在招人中。如果你对无人卡车感兴趣，欢迎联系我。 [北美求职记](https://blog.yxwang.me/2012/12/job-hunting-in-usa-1/)  |
 | 四火的唠叨 | http://www.raychase.net/ | Huawei -> Amazon -> Oracl "四火，啰嗦的程序员一枚，现居西雅图" 旅行 独立游戏 |
