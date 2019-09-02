@@ -3,10 +3,20 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 
 ## About
 我收藏过的博客。
+欢迎你一起丰富这个项目 :)
 
 ## Blog
 
-### ACMer
+### 人工智能 & 数据挖掘
+* Yuxin Wu | http://ppwwyyxx.com/ | 清华-卡内基梅隆 | computer vision, deep learning, reinforcement learning |
+* Jianchao Li | https://jianchao-li.github.io/ | 北京科技-中国科学院-ByteDance AI Lab |
+* 刘建平Pinard | https://www.cnblogs.com/pinard/p/11114748.html | 十年码农，对数学统计学，数据挖掘，机器学习，大数据平台，大数据平台应用开发，大数据可视化感兴趣。
+
+### Java
+* JavaGuide | https://snailclimb.top/JavaGuide/#/ | Java 学习/面试指南
+
+### 算法与数据结构 & ACMer
+* 结构之法 算法之道 | https://blog.csdn.net/v_JULY_v  | July，湖南娄底人，于2010年10月11日开始在CSDN上写博，博客专注面试、算法、机器学习。2011年毕业于东华理工，2015年正式创业，任：七月在线创始人兼CEO，公司官网：七月在线,新书《编程之法》15年10月14日起正式上市 |
 * 崔添翼(dd大牛) | http://cuitianyi.com/ | jane street(面试超难且有点神秘的一家公司) | 浙江大学 | ACMer | 背包九讲 |
 * kuangbin | https://kuangbin.github.io/ | 上海大学 |  google | 大三开始做ACM，研一进final |
 * 小岛(唐飞虎) | http://www.shuizilong.com/ | HIT | google |
@@ -16,15 +26,9 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * Qinz | http://qinz.maybe.im/ |
 * ACdream | https://blog.csdn.net/kevin66654 |
 
-### 算法
-* 结构之法 算法之道 | https://blog.csdn.net/v_JULY_v  | July，湖南娄底人，于2010年10月11日开始在CSDN上写博，博客专注面试、算法、机器学习。2011年毕业于东华理工，2015年正式创业，任：七月在线创始人兼CEO，公司官网：七月在线,新书《编程之法》15年10月14日起正式上市 |
-
-### 人工智能
-* Yuxin Wu | http://ppwwyyxx.com/ | 清华-卡内基梅隆 | computer vision, deep learning, reinforcement learning |
-* Jianchao Li | https://jianchao-li.github.io/ | 北京科技-中国科学院-ByteDance AI Lab |
-
 ### 前端
 * 罗磊 | https://luolei.org/ | 前端工程师，ZUOLUOTV制作人，简书推荐作者，写独立博客八年，骑行过川藏线，跑过几场马拉松 |
+* Cat Chen | https://catchen.me/ | 百度 | 雅虎 | Facebook
 
 ### IOS
 * OneV's Den | https://onevcat.com/ |
@@ -39,7 +43,7 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * Lucida | http://lucida.me/ | [我的算法学习之路](http://lucida.me/blog/on-learning-algorithms/) | [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/) (可能是全网最佳程序员书单) | [旧博客](https://www.cnblogs.com/figure9/) | 大连理工 北航 Microsoft Google Facebook  |
 * 小土刀2.0 | https://wdxtub.com/ | http://wdxtub.lofter.com/view | 卡内基·梅隆大学 |
 * phodal | https://www.phodal.com/ | 西安文理学院-thoughtworks | [工作，五年](https://www.phodal.com/blog/working-in-five-years/)
-* 刘未鹏 | http://mindhacks.cn/ | 《暗时间》| [怎样花两年时间面试一个人](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/) | [为什么你应该(从现在开始就)写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/) |
+* 刘未鹏 | http://mindhacks.cn/ |《暗时间》| [怎样花两年时间面试一个人](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/) | [为什么你应该(从现在开始就)写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/) |
 * 云风的BLOG | https://blog.codingnow.com/ | 游戏开发 |
 * vczh(轮子哥) | http://www.cppblog.com/vczh/ | 微软 |
 * aiur · zellux | https://blog.yxwang.me/ | [北美求职记](https://blog.yxwang.me/2012/12/job-hunting-in-usa-1/) | 我的名字是王远轩，zellux 是我常用的英文名，住在湾区，对智能家居和星际争霸比较感兴趣。我目前在 ike 做无人卡车视觉的相关工作。我们公司在旧金山，最近拿到了 5200 万 a 轮融资，正在招人中。如果你对无人卡车感兴趣，欢迎联系我 |
@@ -79,7 +83,7 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * blackshow | http://blackshow.me/ | 博客风格独特，但是不怎么更新了 |
 * 辛未羊 | https://panqiincs.me/ |
 * Tanky Woo | http://www.wutianqi.com/ | ACMer
-* Scofield's Blog | https://pjf.name/ | 
+* Scofield's Blog | https://pjf.name/ |
 
 
 ### 非技术博客
@@ -92,9 +96,8 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * Dany Eid Photography | https://danyeidphotography.com/ | 一位迪拜的摄影师 |
 * 
 
-
 ## Contributors
-| [YIFEI](http://taowusheng.cn/) |
+| [YIFEI](http://taowusheng.cn/) | [asuml](https://blog.csdn.net/weixin_43249938)
 
 ## License
  本项目遵循GPL 3.0。
