@@ -15,21 +15,22 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * DREAMWINGS千千 | https://www.dreamwings.cn/ | 烟台大学-华东师范 |
 * Qinz | http://qinz.maybe.im/ |
 * ACdream | https://blog.csdn.net/kevin66654 |
-* 
-* 
 
 ### 算法
 * 结构之法 算法之道 | https://blog.csdn.net/v_JULY_v  | July，湖南娄底人，于2010年10月11日开始在CSDN上写博，博客专注面试、算法、机器学习。2011年毕业于东华理工，2015年正式创业，任：七月在线创始人兼CEO，公司官网：七月在线,新书《编程之法》15年10月14日起正式上市 |
 
 ### 人工智能
 * Yuxin Wu | http://ppwwyyxx.com/ | 清华-卡内基梅隆 | computer vision, deep learning, reinforcement learning |
-
-### 后端
+* Jianchao Li | https://jianchao-li.github.io/ | 北京科技-中国科学院-ByteDance AI Lab |
 
 ### 前端
 * 罗磊 | https://luolei.org/ | 前端工程师，ZUOLUOTV制作人，简书推荐作者，写独立博客八年，骑行过川藏线，跑过几场马拉松 |
 
+### IOS
+* OneV's Den | https://onevcat.com/ |
+
 ### 信息安全
+* 
 
 ### 国外
 * Richard Stallman's Personal Site | http://www.stallman.org/ | 理查德·斯托曼 | 自由软件之父 | GNU | GPL |
@@ -49,6 +50,7 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * 阮一峰 | http://www.ruanyifeng.com |
 * Peng Zhao | https://www.pzhao.org/zh/ | R语言 | 化学学士-环境科学硕士-地理生态学博士 | 北京大学-拜罗伊特大学 |
 * 笑遍世界 | http://smilejay.com/about/ | 专注于虚拟化和云计算技术 | intel 阿里云 |
+* Lanceyan| http://www.lanceyan.com/ | 现为海沸数据负责人，曾任上海创行科技技术总监。历任中国平安平台开发工程师，腾讯拍拍网B2C架构工程师。|
 * laike9m's blog | https://laike9m.com/ | 清华 |
 * Jimmy Song | https://jimmysong.io/ | 蚂蚁金服 | 云原生 |
 * 烧饼博客 | https://sb.sb/ | t.tt前所有者 | sm.ms sb.sb | 域名投资 服务器运维 |
@@ -63,14 +65,18 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * hahack | https://www.hahack.com/ | 华南师范 百度 平安科技 腾讯 |
 * crossover jie | https://crossoverjie.top/ | baller |
 * EXP 技术分享博客 | http://exp-blog.com/about/ |
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* 罗道文的私房菜 | http://luodw.cc/ | Linux Cpp 中间件 后端 |
+* 何登成的技术博客 | http://hedengcheng.com/ | 阿里DBA主管 |
+* 系统技术非业余研究 | http://blog.yufeng.info/ | 阿里 | 数据库 |
+* Lucien's Blog | https://blog.lucien.ink/ | ACMer | 女生 | 中石油-腾讯-阿里 |
+* 阿珏博客 | https://www.52ecy.cn/ | 女生技术大佬 | [原创作品](https://lab.52ecy.cn/) |
+* Jennica.Space | http://jennica.space/ | 女生技术大佬 |
+* kingname | https://www.kingname.info/about/ | 电子科技大学 | 网易游戏 | 伏羲实验室 | 高级数据挖掘工程师 |
+* A Geek's Page | http://wangcong.org/ | 红帽 | Linux内核 | 旅行 | 生活 |
+* 浅墨的部落格 | http://www.0xffffff.org/ | Cpp Linux |
+* Kongfy's Blog | http://blog.kongfy.com/ | Cpp Linux |
+* Root lee | http://irootlee.com/ | Cpp |
+* blackshow | http://blackshow.me/ | 博客风格独特，但是不怎么更新了 |
 * 辛未羊 | https://panqiincs.me/ |
 * Tanky Woo | http://www.wutianqi.com/ | ACMer
 * Scofield's Blog | https://pjf.name/ | 
@@ -81,16 +87,9 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * 素锦 | https://isujin.com/ | 很好看的一个博客 |
 * Scott Young | https://www.scotthyoung.com/ | 《如何高效学习》 |
 * Monniya | https://monniya.com/ | 产品经理 |
-* 
-* 
-* 
-* 
-* 
-* 
 
 ### 摄影
 * Dany Eid Photography | https://danyeidphotography.com/ | 一位迪拜的摄影师 |
-* 
 * 
 
 
