@@ -11,9 +11,24 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * Yuxin Wu | http://ppwwyyxx.com/ | 清华-卡内基梅隆 | computer vision, deep learning, reinforcement learning |
 * Jianchao Li | https://jianchao-li.github.io/ | 北京科技-中国科学院-ByteDance AI Lab |
 * 刘建平Pinard | https://www.cnblogs.com/pinard/p/11114748.html | 十年码农，对数学统计学，数据挖掘，机器学习，大数据平台，大数据平台应用开发，大数据可视化感兴趣。
+* Charlotte77 | https://www.cnblogs.com/charlotte77/ | 数学系的数据挖掘民工 |
+* The Bloom of Youth 锦瑟华年 | http://kuangqi.me/ | 机器视觉 | 图像处理 | 《Arduino魔法书》|
 
 ### Java
 * JavaGuide | https://snailclimb.top/JavaGuide/#/ | Java 学习/面试指南
+* 阿月很乖 | https://echocow.cn/ | java | 后端 |
+
+### Cpp
+* 极客光城 | https://light-city.club/ | Cpp | 算法 | leetcode | STL |
+
+### IOS
+* OneV's Den | https://onevcat.com/ |
+* 楚权的世界 | http://www.chuquan.me/ | iOS | 计算机原理系列 |
+
+### 操作系统
+* CXD | http://cxd2014.github.io/ | Linux内核 | 分布式 | 网络 |
+* Miskcoo's Space | http://blog.miskcoo.com/ | 操作系统 | 体系结构 | 处理器 | SQL |
+* Hello World | http://blog.coderhuo.tech/ | Linux内核 |
 
 ### 算法与数据结构 & ACMer
 * 结构之法 算法之道 | https://blog.csdn.net/v_JULY_v  | July，湖南娄底人，于2010年10月11日开始在CSDN上写博，博客专注面试、算法、机器学习。2011年毕业于东华理工，2015年正式创业，任：七月在线创始人兼CEO，公司官网：七月在线,新书《编程之法》15年10月14日起正式上市 |
@@ -25,16 +40,14 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * DREAMWINGS千千 | https://www.dreamwings.cn/ | 烟台大学-华东师范 |
 * Qinz | http://qinz.maybe.im/ |
 * ACdream | https://blog.csdn.net/kevin66654 |
+* Huahua's Tech Road | http://zxi.mytechroad.com/ | leetcode |
 
 ### 前端
 * 罗磊 | https://luolei.org/ | 前端工程师，ZUOLUOTV制作人，简书推荐作者，写独立博客八年，骑行过川藏线，跑过几场马拉松 |
 * Cat Chen | https://catchen.me/ | 百度 | 雅虎 | Facebook
 
-### IOS
-* OneV's Den | https://onevcat.com/ |
-
 ### 信息安全
-* 
+* CytQ | http://imlzq.com/ | Android | 移动安全 | 逆向 | 漏洞挖掘 | 渗透 | 
 
 ### 国外
 * Richard Stallman's Personal Site | http://www.stallman.org/ | 理查德·斯托曼 | 自由软件之父 | GNU | GPL |
@@ -84,7 +97,9 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 * 辛未羊 | https://panqiincs.me/ |
 * Tanky Woo | http://www.wutianqi.com/ | ACMer
 * Scofield's Blog | https://pjf.name/ |
-
+* loggerhead | https://loggerhead.me/ | shadowsocks源码分析 | 逆向 |
+* 卜卜口 | https://mouto.org/ | 软件开发 | 摄影写真 |
+* Levy's ink | https://levy.at/ | THU + CMU程序猿 |
 
 ### 非技术博客
 * 利器 | https://liqi.io/ | 采访优秀的创造者，邀请他们来分享工作时所使用的工具，以及使用工具的方式和原则。进而探索人与工具，人与科技之间的关系 |
@@ -94,10 +109,9 @@ Excellent Blog Collection/优秀博客合集/独立博客/技术博客
 
 ### 摄影
 * Dany Eid Photography | https://danyeidphotography.com/ | 一位迪拜的摄影师 |
-* 
 
 ## Contributors
-| [YIFEI](http://taowusheng.cn/) | [asuml](https://blog.csdn.net/weixin_43249938)
+| [YIFEI](http://taowusheng.cn/) | [asuml](https://blog.csdn.net/weixin_43249938) |
 
 ## License
  本项目遵循GPL 3.0。
